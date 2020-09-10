@@ -1,0 +1,2 @@
+# sliderCaptchaVerify
+JavaScript模拟鼠标破解图片滑块验证码
